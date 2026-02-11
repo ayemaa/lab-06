@@ -41,7 +41,7 @@ dependencies {
     implementation(libs.appcompat)
     implementation(libs.material)
     implementation(libs.activity)
-    //implementation(files("/Users/ayemaahmed/Library/Android/sdk/platforms/android-36/android.jar" ))
+    implementation(files("/Users/ayemaahmed/Library/Android/sdk/platforms/android-36/android.jar" ))
     implementation(libs.constraintlayout)
     testImplementation(libs.junit)
     testImplementation("org.junit.jupiter:junit-jupiter-api:5.0.1")
